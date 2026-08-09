@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Umer 👋
 
-<!--
-**Muhammad-Umer-Riyaan/Muhammad-Umer-Riyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building a strong foundation in software development, with a long-term focus on cybersecurity and penetration testing.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Strengthening core fundamentals in **Java, OOP, and Data Structures & Algorithms**
+- Applying what I learn through small, focused projects rather than tutorials alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Use
+`Java` · `Python` · `DSA` . `SQL` · `Git` . `claude code`.
+
+## Reach Me
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-umer-riyaan/
+- 📧 Email: umerriyaan007@gmail.com
